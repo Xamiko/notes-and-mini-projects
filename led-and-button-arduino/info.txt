@@ -1,0 +1,11 @@
+Arduino Nano Button LED
+
+## Connections
+Button: D2 and GND
+LED: D6 and GND 
+
+## Hardware
+Arduino Nano, Button, LED, Resistor 1k Ohm
+
+
+The main problem is poor contact between the button and the breadboard. The button does not fit tightly enough, causing unstable connection and unreliable button presses.
